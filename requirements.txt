@@ -1,0 +1,13 @@
+torch>=2.0
+torchvision
+numpy
+scipy
+scikit-learn
+scikit-image
+einops
+timm>=0.9
+open-clip-torch>=2.20
+matplotlib
+Pillow
+tifffile
+PyYAML>=5.1
