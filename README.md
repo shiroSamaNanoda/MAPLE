@@ -2,7 +2,7 @@
 
 PyTorch implementation of our TGRS 2026 paper **MAPLE: Modality-Adaptive Prior-Guided Learning with Language-Conditioned Spatial Adaptation for Multimodal Remote Sensing Segmentation**.
 
-
+MAPLE requires the SAM3 codebase. Please install SAM3 or add it to `PYTHONPATH` before training.
 
 ## Installation
 
